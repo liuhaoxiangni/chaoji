@@ -1,0 +1,2 @@
+# chaoji
+print a word
